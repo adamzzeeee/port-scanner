@@ -18,7 +18,7 @@ Installation
 
     Clone this repository:
 
-git clone https://github.com/username/port-scanner.git
+git clone https://github.com/adamzzeeee/port-scanner.git
 
 Navigate to the project directory:
 
